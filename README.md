@@ -1,4 +1,4 @@
-# Hi! I am Edwin Iñiguez Moncada
+# Hi! I am Edwin.
 
 ## Acerca de mi
 - Estudiante de tecnologías computacionales, Instituto Tecnológico y de Estudios Superiores de Monterrey (2022-2026).
